@@ -1,2 +1,3 @@
 # GestionInv 
-Sebastian Cossio - Santiago Villa Cadavid
+- Sebastian Cossio 
+- Santiago Villa Cadavid
